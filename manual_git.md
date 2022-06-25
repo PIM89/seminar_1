@@ -66,4 +66,4 @@
 
 **git diff** - команда отображает разницу между текущим файлом и сохранённым.
 
-![image]([images\git_diff.png](https://github.com/PIM89/seminar_1/blob/master/images/git_diff.png))
+![image](https://github.com/PIM89/seminar_1/blob/master/images/git_diff.png)
