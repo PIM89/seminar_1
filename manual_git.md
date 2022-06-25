@@ -1,4 +1,4 @@
-![image](images\git_image.png)
+![image](https://github.com/PIM89/seminar_1/blob/master/images/git_image.png)
 
 # Инструкция по работе с Git
 
@@ -58,7 +58,7 @@
 
 **git log** - команда для просмотра журнала изменений
 
-![image](images\git_log.png)
+![image](https://github.com/PIM89/seminar_1/blob/master/images/git_log.png)
 
 **git checkout** - команда для переключения между версиями.
 
