@@ -1,4 +1,4 @@
-![image](https://github.com/PIM89/seminar_1/blob/master/images/git_image.png)
+![image](/images/git_image.png)
 
 # Инструкция по работе с Git
 
@@ -58,7 +58,7 @@
 
 **git log** - команда для просмотра журнала изменений
 
-![image](https://github.com/PIM89/seminar_1/blob/master/images/git_log.png)
+![image](/images/git_log.png)
 
 **git checkout** - команда для переключения между версиями.
 
@@ -66,4 +66,14 @@
 
 **git diff** - команда отображает разницу между текущим файлом и сохранённым.
 
-![image](https://github.com/PIM89/seminar_1/blob/master/images/git_diff.png)
+![image](/images/git_diff.png)
+
+## 4. Работа с ветками
+
+## 5. Слияние веток
+
+## 6. Игнорирование файлов
+
+## 7. Конфликт изменений
+
+## 8. Визулизация веток
