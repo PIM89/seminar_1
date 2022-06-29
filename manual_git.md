@@ -70,6 +70,14 @@
 
 ## 4. Работа с ветками
 
+**git branch** - команда выводит список, имеющихся веток.
+
+![image](/images/git_branch.png)
+
+**git branch name_branch** - команда для создания новой ветки name_branch.
+
+**git checkout name_branch** - команда для перехода на ветку name_branch.
+
 ## 5. Слияние веток
 
 ## 6. Игнорирование файлов
