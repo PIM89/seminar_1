@@ -15,7 +15,7 @@
 ## Работа с изображениями
 
 Чтобы вставить изображения в текст, достаточно написать следующее:
-![nosorog](git_image.png)
+![(git_image](https://res.cloudinary.com/practicaldev/image/fetch/s--qK4SKs-g--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/tl1hxlu6ufwx0kbhpzim.png)
 
 ## Ссылки
 
