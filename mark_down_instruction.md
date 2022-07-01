@@ -15,7 +15,7 @@
 ## 3. Работа с изображениями
 
 Чтобы вставить изображения в текст, достаточно написать следующее:
-![(git_image](https://res.cloudinary.com/practicaldev/image/fetch/s--qK4SKs-g--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/tl1hxlu6ufwx0kbhpzim.png)
+![(git_image](https://miro.medium.com/max/1400/1*bvMUGHtl8oJP5rZPV7X8eg.png)
 
 ## 4. Ссылки
 
